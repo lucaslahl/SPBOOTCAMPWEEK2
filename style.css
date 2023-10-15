@@ -1,0 +1,23 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: gray;
+}
+
+h1 {
+    font-size: 20px;
+}
+.tableone {
+    background-color: blue;
+}
+
+.tabletwo {
+    background-color: red;
+}
+
+.tablethree {
+    background-color: yellow;
+}
+
+#headertwo{
+    background-color: aquamarine;
+}
